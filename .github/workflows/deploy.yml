@@ -1,4 +1,4 @@
-Name: Gatsby Publish
+name: Gatsby Publish
 
 on:
   push:
